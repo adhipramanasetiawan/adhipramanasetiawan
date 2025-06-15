@@ -1,7 +1,7 @@
 ![Header](./assets/header.png)
 
 Welcome to my personal portfolio repository!  
-I’m a passionate Web Developer with a strong foundation in Web2 technologies and a growing enthusiasm for the world of Web3. I specialize in building responsive, user-friendly websites using HTML, CSS, PHP, and JavaScript
+I’m a passionate Web Developer with a strong foundation in Web 2.0 technologies and a growing enthusiasm for the world of Web 3.0. I specialize in building responsive, user-friendly websites using HTML, CSS, PHP, and JavaScript
 
 Currently, I’m expanding my skills into decentralized technologies, exploring smart contracts, blockchain development, and how Web3 can shape the future of the internet. I enjoy learning, experimenting, and staying at the forefront of digital innovation.
 
